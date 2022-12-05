@@ -1,0 +1,12 @@
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.deps.json
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.dll
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.pdb
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.csproj.AssemblyReference.cache
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.AssemblyInfoInputs.cache
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.AssemblyInfo.cs
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.csproj.CoreCompileInputs.cache
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.dll
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\refint\Projeto_teste.dll
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.pdb
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC15\Projeto_teste\Projeto_teste\obj\Debug\net6.0\ref\Projeto_teste.dll
